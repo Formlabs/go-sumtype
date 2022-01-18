@@ -1,6 +1,6 @@
-module github.com/sudarshan-reddy/go-sumtype
+module github.com/Formlabs/go-sumtype
 
-go 1.16
+go 1.17
 
 require (
 	github.com/stretchr/testify v1.3.0
